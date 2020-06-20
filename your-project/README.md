@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Strong Random Password Generator
 *Philippine Breuil*
 
 *Data PT, Paris & June 2020*
@@ -20,11 +20,11 @@ My project is to create a Strong Random Password Generator.
 -> hard to crack password to insure safety.
 
 **What does it normally contains ?**
-between 15 and 20 characters
-at least 1 Upper case character "M"
-at least 1 lower case character "m"
-at least 1 number
-at least 1 special character such as ! ? $ ? % ^ & * ( ) _ - + = @ # ? { } [ ] ( ) / \ ' " ` ~ , ; : . < > 
+- between 15 and 20 characters
+- at least 1 Upper case character 
+- at least 1 lower case character 
+- at least 1 number
+- at least 1 special character such as ! ? $ ? % ^ & * ( ) _ - + = @ # ? { } [ ] ( ) / \ ' " ` ~ , ; : . < > 
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
